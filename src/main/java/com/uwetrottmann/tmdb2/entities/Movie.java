@@ -17,8 +17,9 @@ public class Movie extends BaseMovie {
     public List<SpokenLanguage> spoken_languages;
     public Status status;
     public String tagline;
+    public List<ReleaseCountry> releases;
 
-    // Following are used with append_to_response
+    // The Following are used with append_to_response
     public AlternativeTitles alternative_titles;
     public Changes changes;
     public Keywords keywords;
