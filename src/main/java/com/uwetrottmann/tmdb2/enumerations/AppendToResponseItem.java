@@ -7,7 +7,7 @@ public enum AppendToResponseItem {
 
     // Applies to Movies, TV Shows, TV Episodes, TV Seasons, People
     CHANGES("changes"),
-
+    Releases("releases"),
     // Applies to Movies, TV Shows, TV Episodes, TV Seasons
     CREDITS("credits"),
     VIDEOS("videos"),
