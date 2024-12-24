@@ -33,5 +33,6 @@ public class Movie extends BaseMovie {
     public MovieResultsPage recommendations;
     public ReviewResultsPage reviews;
     public Videos videos;
+    public String tmdb_search_title;
 
 }
