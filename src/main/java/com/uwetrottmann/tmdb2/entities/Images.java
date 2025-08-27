@@ -4,10 +4,10 @@ import java.util.List;
 
 public class Images {
 
-    public Integer id;
-    public List<Image> backdrops;
-    public List<Image> posters;
+//    public Integer id;
+//    public List<Image> backdrops;
+//    public List<Image> posters;
     public List<Image> logos;
-    public List<Image> stills;
+   // public List<Image> stills;
 
 }

@@ -11,8 +11,10 @@ public class TvSeason extends BaseTvSeason {
     public String overview;
 
     public Credits credits;
+    /*
     public Images images;
     public Videos videos;
     public TvSeasonExternalIds external_ids;
+    */
 
 }

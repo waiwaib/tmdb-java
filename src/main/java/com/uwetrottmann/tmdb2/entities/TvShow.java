@@ -18,7 +18,7 @@ public class TvShow extends BaseTvShow {
     public List<BaseCompany> production_companies;
     public List<TvSeason> seasons;
     //public String status;
-    public String tagline;
+    //public String tagline;
     //public String type;
 
     // Following are used with append_to_response
@@ -28,8 +28,8 @@ public class TvShow extends BaseTvShow {
     public AlternativeTitles alternative_titles;
     //public Changes changes;
     //public Keywords keywords;
-    public TvShowResultsPage recommendations;
-    public Translations translations;
+    //public TvShowResultsPage recommendations;
+    //public Translations translations;
     public ContentRatings content_ratings;
     //public TvShowResultsPage similar;
     //public Videos videos;
