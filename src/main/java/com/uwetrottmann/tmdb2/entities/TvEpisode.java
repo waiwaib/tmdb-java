@@ -9,10 +9,10 @@ public class TvEpisode extends BaseTvEpisode {
     public List<CastMember> guest_stars;
 
 
-    public Images images;
-    public TvEpisodeExternalIds external_ids;
-    public Credits credits;
-    public Videos videos;
-    public Translations translations;
+    //public Images images;
+    //public TvEpisodeExternalIds external_ids;
+    //public Credits credits;
+    //public Videos videos;
+    //public Translations translations;
 
 }
