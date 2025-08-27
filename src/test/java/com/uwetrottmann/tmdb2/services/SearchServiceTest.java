@@ -100,6 +100,7 @@ public class SearchServiceTest extends BaseTestCase {
                 null,
                 null,
                 null,
+                null,
                 null
         );
 
