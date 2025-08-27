@@ -15,7 +15,7 @@ public class TvShow extends BaseTvShow {
     //public Date last_air_date;
     //public Integer number_of_episodes;
     //public Integer number_of_seasons;
-    //public List<BaseCompany> production_companies;
+    public List<BaseCompany> production_companies;
     public List<TvSeason> seasons;
     //public String status;
     public String tagline;
