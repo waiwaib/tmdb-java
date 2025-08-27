@@ -19,5 +19,5 @@ public class BaseTvShow extends BaseRatingObject {
     public Double vote_average;
     public Integer vote_count;
 
-    public String media_type;
+    //public String media_type;
 }
