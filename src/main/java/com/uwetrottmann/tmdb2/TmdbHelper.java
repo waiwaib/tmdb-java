@@ -94,7 +94,7 @@ public class TmdbHelper {
                             media.tvShow = jsonDeserializationContext.deserialize(jsonElement, BaseTvShow.class);
                             break;
                         case PERSON:
-                            media.person = jsonDeserializationContext.deserialize(jsonElement, BasePerson.class);
+                            //media.person = jsonDeserializationContext.deserialize(jsonElement, BasePerson.class);
                             break;
                     }
 
