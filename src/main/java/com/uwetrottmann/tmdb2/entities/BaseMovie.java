@@ -7,10 +7,10 @@ public class BaseMovie extends BaseRatingObject {
 
     public Integer id;
 
-    public Boolean adult;
+    //public Boolean adult;
     public String backdrop_path;
     public List<Genre> genres;
-    public List<Integer> genre_ids;
+    //public List<Integer> genre_ids;
     public String original_title;
     public String original_language;
     public String overview;
